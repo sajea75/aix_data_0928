@@ -17,4 +17,4 @@ print(df)
 
 # csv파일저장 - csv,txt,xlsx
 # database프로그램과 호환가능
-df.to_csv('file/score.csv',encoding='utf-8-sig') #utf-8-sig:excel파일에 확인가능
+# df.to_csv('file/score.csv',encoding='utf-8-sig') #utf-8-sig:excel파일에 확인가
